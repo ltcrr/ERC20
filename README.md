@@ -21,11 +21,9 @@ Each project includes:
 
 | # | Project | Description | Tech Stack | Network / Address |
 |---|---------|-------------|------------|-------------------|
-| 1 | **MyToken** | A minimal ERC-20 implementation for learning purposes | Solidity, Hardhat, OpenZeppelin | [0x…](https://etherscan.io/address/0x...) |
-| 2 | **RewardToken** | ERC-20 with mint/burn and staking rewards | Solidity, Hardhat, OpenZeppelin | [0x…](https://etherscan.io/address/0x...) |
-| 3 | **GovernanceToken** | Token with snapshot & voting support | Solidity, Hardhat, OpenZeppelin | [0x…](https://etherscan.io/address/0x...) |
+| 1 | **SWU Token** | A minimal ERC-20 implementation, with staking | Solidity, OpenZeppelin | [0x…](https://etherscan.io/address/0x...) |
 
-> 👉 Replace with your actual project names, links, and contract addresses.
+
 
 ---
 
