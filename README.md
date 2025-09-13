@@ -21,7 +21,7 @@ Each project includes:
 
 | # | Project | Description | Tech Stack | Network / Address |
 |---|---------|-------------|------------|-------------------|
-| 1 | **SWU Token** | A minimal ERC-20 implementation, with staking | Solidity, OpenZeppelin | [0x…](https://etherscan.io/address/0x...) |
+| 1 | **[SWU Token](https://github.com/ltcrr/ERC20/tree/main/SWU%20Token)** | A minimal ERC-20 implementation, with staking | Solidity, OpenZeppelin | [0x…](https://etherscan.io/address/0x...) |
 
 
 
@@ -32,5 +32,5 @@ Each project includes:
 Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/erc20-projects-portfolio.git
-cd erc20-projects-portfolio
+git clone https://github.com/ltcrr/ERC20.git
+cd ERC20
