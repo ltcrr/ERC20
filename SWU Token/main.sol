@@ -20,7 +20,7 @@ contract token is ERC20, ERC20Capped, Ownable, Pausable {
     
 
     constructor(uint256 initialSupply)
-        ERC20("Vinith", "XVT")
+        ERC20("SwearU", "SWU")
         Ownable(msg.sender)
         ERC20Capped(1_000_000 * 10 ** 18)
     {
