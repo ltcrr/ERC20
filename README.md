@@ -23,6 +23,7 @@ Each project includes:
 |---|---------|-------------|------------|-------------------|
 | 1 | **[SWU Token](https://github.com/ltcrr/ERC20/tree/main/SWU%20Token)** | A minimal ERC-20 implementation, with staking | Solidity, OpenZeppelin | [0x…](https://etherscan.io/address/0x...) |
 | 2 | **[Escrow](https://github.com/ltcrr/ERC20/tree/main/Escrow)** | A simple eswrow contract | Solidity | [0x…](https://etherscan.io/address/0x...) |
+| 3 | **[CrowFunding](https://github.com/ltcrr/ERC20/tree/main/CrowFunding)** | A CrowFunding contract | Solidity | [0x…](https://etherscan.io/address/0x...) |
 
 
 
