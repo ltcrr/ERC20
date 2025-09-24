@@ -149,7 +149,3 @@ Suggested tests:
 * Arbiter should ideally be a multisig or DAO for real funds.
 
 ---
-
-## License
-
-MIT © 2025
